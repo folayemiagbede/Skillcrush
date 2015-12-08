@@ -1,0 +1,17 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <h1 id="h1_value">JavaScript is
+fun!</h1>
+      <h2> Let's practice! </h2>
+<script> var hello = 'Hello, World!';
+alert(hello);
+      </script>
+    </body>
+</html>
+
+JavaScript
+var h1_value = document.getElementById('h1').innerHTML;
+var h2 = document.getElementById('h2');
+
