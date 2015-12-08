@@ -1,0 +1,3 @@
+var tempcel = prompt ("How many degrees Celsius is it outside?");
+var converted=(tempcel * 9 / 5 + 32);
+alert("It is "+ converted +" degrees farenheit!");
