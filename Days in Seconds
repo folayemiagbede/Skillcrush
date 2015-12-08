@@ -1,0 +1,3 @@
+var seconds = prompt("How many seconds do you want convert into days?");
+var converted = (seconds/60/24);
+alert ("seconds is equal to "+ converted +" days");
