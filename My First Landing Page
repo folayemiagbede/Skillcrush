@@ -1,0 +1,81 @@
+HTML
+<h1> I'm Folayemi.  You should get to know me. </h1>
+
+<p> About me: I am a twenty-something with a Masters from American University and a Bachelors from Northwestern. I am really excited about learning how to code and sharing that skill with others in order to enrich their lives. I love the idea of building impactful tools that can improve everything from transportation to access to employment by leveraging technology.</p>
+
+
+<h2> Reasons You Should Get to Know Me</h2>
+<ul>
+    <li> I'm learning to code.</li>
+    <li> I love being an early adopter and passing tech wins on to friends.
+    <li> I have learned a lot from years of trying a ton of different, edgy, weird, world-travel demanding sort of things and I want to share that knowledge with you! </li>
+ <ul>
+
+
+CSS
+body{
+	text-align: left;
+	color:#08B8B;
+	text-decoration: bold;	
+  margin: 10 px;
+  padding: 10 px;
+ background:url("http://i57.tinypic.com/vhe0le.jpg")
+	background-size: cover;
+	background-position: bottom;
+	font-family: 'Tangerine', serif;
+        font-size: 48px;;
+}
+h1{
+	font-size: 45px;
+	color: Blue;
+	font: helvetica;
+}
+h2{
+    font-size: 35px;
+    color: Purple;
+    font: Times New Roman;
+}
+p{
+	font-size: 30px;
+	background-color: #F0F8FF;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:200px;
+ 
+    float:left;
+    padding:1px; 
+  	margin: 5px;
+    color: white;
+    text-decoration: bold;
+    font-size: 35px;
+    word-spacing: 20 px;
+    text-align: center;
+}
+#p.one{
+  float: left;
+    margin: 10px;
+}
+#p.two{
+  float: left;
+    margin: 10px;
+}
+#p.three{
+  float: left;
+}
+#bern{
+  float: center;
+}
+#aside{
+	position:right;
+}
+#modal-popup{
+width:20 px;
+background-color: #F0F8FF;
+z-index:90;
+position: fixed;
+top: 700 px;
+left: 700 px;
+}
+<title>Yemi509 | Skillcrush</title>
